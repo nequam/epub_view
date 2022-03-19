@@ -1,4 +1,4 @@
-# epub_view_example
+# epubber_example
 
 A new Flutter project.
 

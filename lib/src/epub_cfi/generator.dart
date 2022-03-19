@@ -1,4 +1,4 @@
-import 'package:epub_view/src/utils.dart';
+import 'package:epubber/src/utils.dart';
 import 'package:epubx/epubx.dart';
 import 'package:flutter/foundation.dart';
 import 'package:html/dom.dart';

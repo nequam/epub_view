@@ -1,4 +1,4 @@
-package io.scer.epub_view_example
+package us.nequam.epubber_example
 
 import io.flutter.embedding.android.FlutterActivity
 

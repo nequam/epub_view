@@ -1,8 +1,8 @@
-name: epub_view
-description: Flutter widget for view EPUB documents on on Web, MacOs, Android and iOS. Based on dart-epub package.
-repository: https://github.com/rbcprolabs/packages.flutter/tree/master/packages/epub_view
-issue_tracker: https://github.com/rbcprolabs/packages.flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+epub_view%22
-version: 2.3.0
+name: epubber
+description: Flutter widget for view EPUB documents on on Web, MacOs, Android and iOS. Based on epub_view, which was based on dart-epub package.
+repository: https://github.com/nequam/epub_view.git
+issue_tracker: https://github.com/nequam/epub_view/issues
+version: 0.9.8
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

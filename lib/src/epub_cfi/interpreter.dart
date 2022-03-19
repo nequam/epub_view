@@ -1,4 +1,4 @@
-import 'package:epub_view/src/epub_cfi/parser.dart';
+import 'package:epubber/src/epub_cfi/parser.dart';
 import 'package:flutter/foundation.dart';
 import 'package:html/dom.dart';
 

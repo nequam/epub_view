@@ -1,4 +1,4 @@
-# epub_view
+# epubber
 
 This originally comes from https://github.com/ScerIO/packages.flutter, a developer named SergeShkurko seems to have done a lot of the commits 
 (if not all of them.).  I am trying to understand why this widget will not import into flutterflow.io for some friends of mine. If this becomes 
@@ -11,7 +11,7 @@ Pure flutter widget for view EPUB documents on all platforms. Based on [epub](ht
 
 ## Showcase
 
-<img width="50%" src="https://raw.githubusercontent.com/rbcprolabs/packages.flutter/master/packages/epub_view/example/media/example.gif?raw=true" />
+<img width="50%" src="https://github.com/nequam/epub_view/blob/main/example/media/example.gif?raw=true" />
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ In your flutter project add the dependency:
 
 ```yaml
 dependencies:
-  epub_view: any
+  epubber: any
 ```
 
 ## Usage example:

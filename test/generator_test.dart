@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:epub_view/epub_view.dart';
+import 'package:epub_view/epubber.dart';
 import 'package:epub_view/src/epub_cfi/generator.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -9,7 +9,7 @@ import 'package:html/dom.dart';
 
 Future<Uint8List> _loadTestBook() async {
   // final url = Directory.current.path
-  //     .replaceFirst(RegExp(r'epub_view.*'), '');
+  //     .replaceFirst(RegExp(r'epubber.*'), '');
   final file = File('test/assets/book.epub');
   return file.readAsBytes();
 }

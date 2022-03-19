@@ -1,4 +1,4 @@
-part of 'epub_view.dart';
+part of 'epubber.dart';
 
 class EpubCfiReader {
   EpubCfiReader()
