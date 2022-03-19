@@ -1,5 +1,12 @@
 # epub_view
 
+This originally comes from https://github.com/ScerIO/packages.flutter, a developer named SergeShkurko seems to have done a lot of the commits 
+(if not all of them.).  I am trying to understand why this widget will not import into flutterflow.io for some friends of mine. If this becomes 
+useful, feel free to take whatever you need out of it.  (MIT License)
+
+I am also working on putting a version of this in pub.dev at some point when I figure out how all of that works.
+
+
 Pure flutter widget for view EPUB documents on all platforms. Based on [epub](https://pub.dev/packages/epub) package. Render with flutter widgets (not native view) on any platforms: **Web**, **MacOs**, **Windows** **Linux**, **Android** and **iOS**
 
 ## Showcase
