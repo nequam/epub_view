@@ -4,6 +4,8 @@ This originally comes from https://github.com/ScerIO/packages.flutter, a develop
 (if not all of them.).  I am trying to understand why this widget will not import into flutterflow.io for some friends of mine. If this becomes 
 useful, feel free to take whatever you need out of it.  (MIT License)
 
+#THIS IS VERY EXPERIMENTAL.  I WILL PROBABLY TOTALLY BREAK IT A FEW TIMES.
+
 I am also working on putting a version of this in pub.dev at some point when I figure out how all of that works.
 
 

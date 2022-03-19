@@ -1,5 +1,5 @@
 name: epubber
-description: Flutter widget for view EPUB documents on on Web, MacOs, Android and iOS. Based on epub_view, which was based on dart-epub package.
+description: EXPERIMENTAL Flutter widget for view EPUB documents on on Web, MacOs, Android and iOS. Based on epub_view, which was based on dart-epub package.
 repository: https://github.com/nequam/epub_view.git
 issue_tracker: https://github.com/nequam/epub_view/issues
 version: 0.9.8
